@@ -5,7 +5,7 @@ State of the art resources for NLP sequence modeling tasks such as machine trans
 [My notes on neural networks, rnn, lstm](https://github.com/andrewt3000/MachineLearning/blob/master/neuralNets.md)  
 
 ## Deep Learning for NLP 
-[Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
+[Stanford Natural Language Processing](https://www.coursera.org/learn/nlp-sequence-models)  
 Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as [sentence segmentation](https://github.com/diasks2/pragmatic_segmenter), word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  **Currently not available**  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
